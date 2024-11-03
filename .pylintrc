@@ -1,0 +1,2 @@
+[MASTER]
+init-hook='import sys; sys.path.append("C:\\Users\\Ana\\PycharmProjects\\llm_agent_api")'

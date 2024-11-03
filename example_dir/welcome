@@ -1,0 +1,10 @@
+Hi, and welcome!
+
+In this demo, I'll show you the LLM Agent API's simple command functionalities,
+ all within the "example_dir" folder.
+ You'll see how it navigates directories, finds and renames files,
+ and searches content—handling each request asynchronously and safely.
+
+Plus, it passes all pylint and mypy checks, except for auto-generated Poetry files.
+
+Let’s get started!
