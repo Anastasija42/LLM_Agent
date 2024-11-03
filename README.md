@@ -45,6 +45,6 @@ Contact
 -------
 For questions, feedback, or collaboration inquiries, feel free to reach out!
 
-- **Email**: [anastasijar01@gmail.com](anastasijar01@gmail.com)
+- **Email**: [anastasijar01@gmail.com](mailto:anastasijar01@gmail.com)
 - **LinkedIn**: [Anastasija Rakić](https://www.linkedin.com/in/anastasija-raki%C4%87-96725b256/)
-- **GitHub**: [Anastasija42]([https://github.com/Anastasija42])  
+- **GitHub**: [Anastasija42](https://github.com/Anastasija42)  
