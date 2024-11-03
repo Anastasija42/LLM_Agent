@@ -22,7 +22,6 @@ Key Components:
 Features:
 --------
 - File Navigation and Operations: Supports commands to navigate directories, rename files, find files based on patterns, and search subfolders for specific files.
-- Text Analysis: Reads files to analyze content for specified keywords, particularly targeting files with specific patterns (e.g., 'log' files).
 - Asynchronous Processing: Handles requests asynchronously for efficient command execution.
 - Safe Access: Enforces secure file system operations within a specified directory (example_dir) to avoid unauthorized access.
 - Configurable Tools: Utilizes a modular tool structure (e.g., ListDirectoryTool) for easy extension and maintenance.
